@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Pract\\Week3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1F03D2-9AA2-44AE-8060-DA3A14D67AB3}|Ex5_UnionOfIntervals\\Ex5_UnionOfIntervals.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Pract\\Week3\\Ex5_UnionOfIntervals\\Ex5_UnionOfIntervals.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD1F03D2-9AA2-44AE-8060-DA3A14D67AB3}|Ex5_UnionOfIntervals\\Ex5_UnionOfIntervals.vcxproj|solutionrelative:Ex5_UnionOfIntervals\\Ex5_UnionOfIntervals.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2160387-B026-4B64-8040-C5A045031073}|Ex4_SortLinear\\Ex4_SortLinear.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Pract\\Week3\\Ex4_SortLinear\\Ex4_SortLinear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2160387-B026-4B64-8040-C5A045031073}|Ex4_SortLinear\\Ex4_SortLinear.vcxproj|solutionrelative:Ex4_SortLinear\\Ex4_SortLinear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47BABE5-271E-4446-A887-9EAD7AD5182A}|Ex3_PartitionIsPrime\\Ex3_PartitionIsPrime.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Pract\\Week3\\Ex3_PartitionIsPrime\\Ex3_PartitionIsPrime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E47BABE5-271E-4446-A887-9EAD7AD5182A}|Ex3_PartitionIsPrime\\Ex3_PartitionIsPrime.vcxproj|solutionrelative:Ex3_PartitionIsPrime\\Ex3_PartitionIsPrime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex5_UnionOfIntervals.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Pract\\Week3\\Ex5_UnionOfIntervals\\Ex5_UnionOfIntervals.cpp",
+              "RelativeDocumentMoniker": "Ex5_UnionOfIntervals\\Ex5_UnionOfIntervals.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Pract\\Week3\\Ex5_UnionOfIntervals\\Ex5_UnionOfIntervals.cpp",
+              "RelativeToolTip": "Ex5_UnionOfIntervals\\Ex5_UnionOfIntervals.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T10:36:32.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex4_SortLinear.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Pract\\Week3\\Ex4_SortLinear\\Ex4_SortLinear.cpp",
+              "RelativeDocumentMoniker": "Ex4_SortLinear\\Ex4_SortLinear.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Pract\\Week3\\Ex4_SortLinear\\Ex4_SortLinear.cpp",
+              "RelativeToolTip": "Ex4_SortLinear\\Ex4_SortLinear.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T10:07:56.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ex3_PartitionIsPrime.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Pract\\Week3\\Ex3_PartitionIsPrime\\Ex3_PartitionIsPrime.cpp",
+              "RelativeDocumentMoniker": "Ex3_PartitionIsPrime\\Ex3_PartitionIsPrime.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Pract\\Week3\\Ex3_PartitionIsPrime\\Ex3_PartitionIsPrime.cpp",
+              "RelativeToolTip": "Ex3_PartitionIsPrime\\Ex3_PartitionIsPrime.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T09:32:27.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
