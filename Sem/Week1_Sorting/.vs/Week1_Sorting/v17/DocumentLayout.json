@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D59C245-BA05-4BEA-985F-972D6A2B441B}|Ex2_Insertion_Sort\\Ex2_Insertion_Sort.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\Ex2_Insertion_Sort\\Ex2_Insertion_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D59C245-BA05-4BEA-985F-972D6A2B441B}|Ex2_Insertion_Sort\\Ex2_Insertion_Sort.vcxproj|solutionrelative:Ex2_Insertion_Sort\\Ex2_Insertion_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D29884A3-23D9-47E8-BA35-E9016081F21C}|Ex3_Selection_Sort\\Ex3_Selection_Sort.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\Ex3_Selection_Sort\\Ex3_Selection_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D29884A3-23D9-47E8-BA35-E9016081F21C}|Ex3_Selection_Sort\\Ex3_Selection_Sort.vcxproj|solutionrelative:Ex3_Selection_Sort\\Ex3_Selection_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D875F4-1AF5-43CB-ABC1-99C4115986CE}|Ex4_Merge_Sort\\Ex4_Merge_Sort.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\Ex4_Merge_Sort\\Ex4_Merge_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0D875F4-1AF5-43CB-ABC1-99C4115986CE}|Ex4_Merge_Sort\\Ex4_Merge_Sort.vcxproj|solutionrelative:Ex4_Merge_Sort\\Ex4_Merge_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029D4EEE-1EE4-49EE-AC9F-62BD27BE8236}|Ex5_Quick_Sort\\Ex5_Quick_Sort.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\Ex5_Quick_Sort\\Ex5_Quick_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{029D4EEE-1EE4-49EE-AC9F-62BD27BE8236}|Ex5_Quick_Sort\\Ex5_Quick_Sort.vcxproj|solutionrelative:Ex5_Quick_Sort\\Ex5_Quick_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFC00B0-0680-472A-BA58-F8030E8CDD05}|Ex1_Bubble_Sort\\Ex1_Bubble_Sort.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\Ex1_Bubble_Sort\\Ex1_Bubble_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DFC00B0-0680-472A-BA58-F8030E8CDD05}|Ex1_Bubble_Sort\\Ex1_Bubble_Sort.vcxproj|solutionrelative:Ex1_Bubble_Sort\\Ex1_Bubble_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ex5_Quick_Sort.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\Ex5_Quick_Sort\\Ex5_Quick_Sort.cpp",
+              "RelativeDocumentMoniker": "Ex5_Quick_Sort\\Ex5_Quick_Sort.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\Ex5_Quick_Sort\\Ex5_Quick_Sort.cpp",
+              "RelativeToolTip": "Ex5_Quick_Sort\\Ex5_Quick_Sort.cpp",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAkwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T13:33:11.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ex4_Merge_Sort.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\Ex4_Merge_Sort\\Ex4_Merge_Sort.cpp",
+              "RelativeDocumentMoniker": "Ex4_Merge_Sort\\Ex4_Merge_Sort.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\Ex4_Merge_Sort\\Ex4_Merge_Sort.cpp",
+              "RelativeToolTip": "Ex4_Merge_Sort\\Ex4_Merge_Sort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T07:21:40.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex3_Selection_Sort.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\Ex3_Selection_Sort\\Ex3_Selection_Sort.cpp",
+              "RelativeDocumentMoniker": "Ex3_Selection_Sort\\Ex3_Selection_Sort.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\Ex3_Selection_Sort\\Ex3_Selection_Sort.cpp",
+              "RelativeToolTip": "Ex3_Selection_Sort\\Ex3_Selection_Sort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T20:10:19.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex2_Insertion_Sort.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\Ex2_Insertion_Sort\\Ex2_Insertion_Sort.cpp",
+              "RelativeDocumentMoniker": "Ex2_Insertion_Sort\\Ex2_Insertion_Sort.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\Ex2_Insertion_Sort\\Ex2_Insertion_Sort.cpp",
+              "RelativeToolTip": "Ex2_Insertion_Sort\\Ex2_Insertion_Sort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T19:56:26.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ex1_Bubble_Sort.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\Ex1_Bubble_Sort\\Ex1_Bubble_Sort.cpp",
+              "RelativeDocumentMoniker": "Ex1_Bubble_Sort\\Ex1_Bubble_Sort.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week1_Sorting\\Ex1_Bubble_Sort\\Ex1_Bubble_Sort.cpp",
+              "RelativeToolTip": "Ex1_Bubble_Sort\\Ex1_Bubble_Sort.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T18:57:34.141Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

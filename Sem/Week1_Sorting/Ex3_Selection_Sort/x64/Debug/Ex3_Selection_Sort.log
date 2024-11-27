@@ -1,0 +1,13 @@
+﻿  Ex3_Selection_Sort.cpp
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\Ex3_Selection_Sort\Ex3_Selection_Sort.cpp(13,38): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\Ex3_Selection_Sort\Ex3_Selection_Sort.cpp(13,38):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\Ex3_Selection_Sort\Ex3_Selection_Sort.cpp(36,5):
+  	see reference to function template instantiation 'void selectionSort<int>(T *,const unsigned int)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\Ex3_Selection_Sort\Ex3_Selection_Sort.cpp(18,39): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Ex3_Selection_Sort.vcxproj -> C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\x64\Debug\Ex3_Selection_Sort.exe

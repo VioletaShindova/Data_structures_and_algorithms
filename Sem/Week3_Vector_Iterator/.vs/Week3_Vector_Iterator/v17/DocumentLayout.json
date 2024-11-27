@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week3_Vector_Iterator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\1_IS_2_3_7MI0700206\\Ex_1\\BrowserTab.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94788A1-B1D7-42C1-A2F2-DB7251806EBE}|Vector_Implementation\\Vector_Implementation.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week3_Vector_Iterator\\Vector_Implementation\\Vector_Implementation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B94788A1-B1D7-42C1-A2F2-DB7251806EBE}|Vector_Implementation\\Vector_Implementation.vcxproj|solutionrelative:Vector_Implementation\\Vector_Implementation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94788A1-B1D7-42C1-A2F2-DB7251806EBE}|Vector_Implementation\\Vector_Implementation.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week3_Vector_Iterator\\Vector_Implementation\\Iterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B94788A1-B1D7-42C1-A2F2-DB7251806EBE}|Vector_Implementation\\Vector_Implementation.vcxproj|solutionrelative:Vector_Implementation\\Iterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrowserTab.h",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\1_IS_2_3_7MI0700206\\Ex_1\\BrowserTab.h",
+              "RelativeDocumentMoniker": "..\\1_IS_2_3_7MI0700206\\Ex_1\\BrowserTab.h",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\1_IS_2_3_7MI0700206\\Ex_1\\BrowserTab.h",
+              "RelativeToolTip": "..\\1_IS_2_3_7MI0700206\\Ex_1\\BrowserTab.h",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T21:08:10.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Iterator.h",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week3_Vector_Iterator\\Vector_Implementation\\Iterator.h",
+              "RelativeDocumentMoniker": "Vector_Implementation\\Iterator.h",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week3_Vector_Iterator\\Vector_Implementation\\Iterator.h*",
+              "RelativeToolTip": "Vector_Implementation\\Iterator.h*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T15:59:01.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector_Implementation.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week3_Vector_Iterator\\Vector_Implementation\\Vector_Implementation.cpp",
+              "RelativeDocumentMoniker": "Vector_Implementation\\Vector_Implementation.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week3_Vector_Iterator\\Vector_Implementation\\Vector_Implementation.cpp*",
+              "RelativeToolTip": "Vector_Implementation\\Vector_Implementation.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T15:58:22.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

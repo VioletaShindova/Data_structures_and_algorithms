@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week4_Singly_Linked_List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{543CD5BE-F470-4566-9D4A-70517205C4A7}|Doubly_Linked_List\\Doubly_Linked_List.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week4_Singly_Linked_List\\Doubly_Linked_List\\DoublyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{543CD5BE-F470-4566-9D4A-70517205C4A7}|Doubly_Linked_List\\Doubly_Linked_List.vcxproj|solutionrelative:Doubly_Linked_List\\DoublyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA624FB-41A5-4E7A-A1D3-EC16CF3F294F}|Single_Linked_List\\Single_Linked_List.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week4_Singly_Linked_List\\Single_Linked_List\\SinglyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBA624FB-41A5-4E7A-A1D3-EC16CF3F294F}|Single_Linked_List\\Single_Linked_List.vcxproj|solutionrelative:Single_Linked_List\\SinglyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543CD5BE-F470-4566-9D4A-70517205C4A7}|Doubly_Linked_List\\Doubly_Linked_List.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week4_Singly_Linked_List\\Doubly_Linked_List\\Doubly_Linked_List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{543CD5BE-F470-4566-9D4A-70517205C4A7}|Doubly_Linked_List\\Doubly_Linked_List.vcxproj|solutionrelative:Doubly_Linked_List\\Doubly_Linked_List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoublyLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week4_Singly_Linked_List\\Doubly_Linked_List\\DoublyLinkedList.h",
+              "RelativeDocumentMoniker": "Doubly_Linked_List\\DoublyLinkedList.h",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week4_Singly_Linked_List\\Doubly_Linked_List\\DoublyLinkedList.h",
+              "RelativeToolTip": "Doubly_Linked_List\\DoublyLinkedList.h",
+              "ViewState": "AQIAAO0BAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T11:18:06.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doubly_Linked_List.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week4_Singly_Linked_List\\Doubly_Linked_List\\Doubly_Linked_List.cpp",
+              "RelativeDocumentMoniker": "Doubly_Linked_List\\Doubly_Linked_List.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week4_Singly_Linked_List\\Doubly_Linked_List\\Doubly_Linked_List.cpp",
+              "RelativeToolTip": "Doubly_Linked_List\\Doubly_Linked_List.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T11:17:10.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinglyLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week4_Singly_Linked_List\\Single_Linked_List\\SinglyLinkedList.h",
+              "RelativeDocumentMoniker": "Single_Linked_List\\SinglyLinkedList.h",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week4_Singly_Linked_List\\Single_Linked_List\\SinglyLinkedList.h",
+              "RelativeToolTip": "Single_Linked_List\\SinglyLinkedList.h",
+              "ViewState": "AQIAAH0BAAAAAAAAAAAWwIcBAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-05T14:42:26.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿  Ex4_Merge_Sort.cpp
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\Ex4_Merge_Sort\Ex4_Merge_Sort.cpp(39,18): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\Ex4_Merge_Sort\Ex4_Merge_Sort.cpp(39,18):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\Ex4_Merge_Sort\Ex4_Merge_Sort.cpp(67,5):
+  	see reference to function template instantiation 'void MergeSort<int>(T *,const size_t)' being compiled
+          with
+          [
+              T=int
+          ]
+  	C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\Ex4_Merge_Sort\Ex4_Merge_Sort.cpp(58,5):
+  	see reference to function template instantiation 'void MergeSortStep<T>(T *,const size_t,T *)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+  Ex4_Merge_Sort.vcxproj -> C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\x64\Debug\Ex4_Merge_Sort.exe

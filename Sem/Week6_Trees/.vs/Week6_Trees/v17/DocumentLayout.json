@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week6_Trees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83F0C7E4-3630-4ED4-8BD4-C065384AD83B}|Binary_Search_Tree\\Binary_Search_Tree.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week6_Trees\\Binary_Search_Tree\\BinarySearchTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83F0C7E4-3630-4ED4-8BD4-C065384AD83B}|Binary_Search_Tree\\Binary_Search_Tree.vcxproj|solutionrelative:Binary_Search_Tree\\BinarySearchTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F0C7E4-3630-4ED4-8BD4-C065384AD83B}|Binary_Search_Tree\\Binary_Search_Tree.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week6_Trees\\Binary_Search_Tree\\Binary_Search_Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83F0C7E4-3630-4ED4-8BD4-C065384AD83B}|Binary_Search_Tree\\Binary_Search_Tree.vcxproj|solutionrelative:Binary_Search_Tree\\Binary_Search_Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinarySearchTree.h",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week6_Trees\\Binary_Search_Tree\\BinarySearchTree.h",
+              "RelativeDocumentMoniker": "Binary_Search_Tree\\BinarySearchTree.h",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week6_Trees\\Binary_Search_Tree\\BinarySearchTree.h",
+              "RelativeToolTip": "Binary_Search_Tree\\BinarySearchTree.h",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAALUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-14T11:42:06.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Binary_Search_Tree.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week6_Trees\\Binary_Search_Tree\\Binary_Search_Tree.cpp",
+              "RelativeDocumentMoniker": "Binary_Search_Tree\\Binary_Search_Tree.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week6_Trees\\Binary_Search_Tree\\Binary_Search_Tree.cpp",
+              "RelativeToolTip": "Binary_Search_Tree\\Binary_Search_Tree.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T11:39:50.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

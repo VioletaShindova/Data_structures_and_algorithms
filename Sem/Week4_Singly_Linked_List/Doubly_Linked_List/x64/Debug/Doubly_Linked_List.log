@@ -1,0 +1,19 @@
+﻿  Doubly_Linked_List.cpp
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Doubly_Linked_List\DoublyLinkedList.h(8,14): error C2059: syntax error: ')'
+  (compiling source file 'Doubly_Linked_List.cpp')
+  C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Doubly_Linked_List\DoublyLinkedList.h(8,14):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Doubly_Linked_List\DoublyLinkedList.h(5,7):
+  	while compiling class template 'DoublyLinkedList'
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Doubly_Linked_List\DoublyLinkedList.h(9,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Doubly_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Doubly_Linked_List\DoublyLinkedList.h(59,7): error C2535: 'void DoublyLinkedList<T>::free(void)': member function already defined or declared
+  (compiling source file 'Doubly_Linked_List.cpp')
+  C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Doubly_Linked_List\DoublyLinkedList.h(27,7):
+  see declaration of 'DoublyLinkedList<T>::free'
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Doubly_Linked_List\DoublyLinkedList.h(140,15): error C2760: syntax error: ';' was unexpected here; expected 'expression'
+  (compiling source file 'Doubly_Linked_List.cpp')
+  

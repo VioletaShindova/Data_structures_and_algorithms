@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week2_CountingSort_Vector\u0026DynamicArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F45F2FB2-F85D-411F-B121-BD845C74EAA3}|Ex1_CountSort\\Ex1_CountSort.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week2_CountingSort_Vector\u0026DynamicArray\\Ex1_CountSort\\Ex1_CountSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F45F2FB2-F85D-411F-B121-BD845C74EAA3}|Ex1_CountSort\\Ex1_CountSort.vcxproj|solutionrelative:Ex1_CountSort\\Ex1_CountSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex1_CountSort.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week2_CountingSort_Vector\u0026DynamicArray\\Ex1_CountSort\\Ex1_CountSort.cpp",
+              "RelativeDocumentMoniker": "Ex1_CountSort\\Ex1_CountSort.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week2_CountingSort_Vector\u0026DynamicArray\\Ex1_CountSort\\Ex1_CountSort.cpp",
+              "RelativeToolTip": "Ex1_CountSort\\Ex1_CountSort.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T13:09:17.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

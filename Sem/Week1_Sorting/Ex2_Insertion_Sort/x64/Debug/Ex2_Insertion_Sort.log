@@ -1,0 +1,12 @@
+﻿  Ex2_Insertion_Sort.cpp
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\Ex2_Insertion_Sort\Ex2_Insertion_Sort.cpp(12,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\Ex2_Insertion_Sort\Ex2_Insertion_Sort.cpp(12,20):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\Ex2_Insertion_Sort\Ex2_Insertion_Sort.cpp(29,2):
+  	see reference to function template instantiation 'void insertionSort<int>(T *,const unsigned int)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+  Ex2_Insertion_Sort.vcxproj -> C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\x64\Debug\Ex2_Insertion_Sort.exe

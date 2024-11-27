@@ -1,0 +1,20 @@
+﻿  Binary_Search_Tree.cpp
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week6_Trees\Binary_Search_Tree\BinarySearchTree.h(248,10): error C2440: 'return': cannot convert from 'int' to 'T &'
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week6_Trees\Binary_Search_Tree\BinarySearchTree.h(248,10): error C2440:         with
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week6_Trees\Binary_Search_Tree\BinarySearchTree.h(248,10): error C2440:         [
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week6_Trees\Binary_Search_Tree\BinarySearchTree.h(248,10): error C2440:             T=int
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week6_Trees\Binary_Search_Tree\BinarySearchTree.h(248,10): error C2440:         ]
+  (compiling source file 'Binary_Search_Tree.cpp')
+  C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week6_Trees\Binary_Search_Tree\BinarySearchTree.h(248,10):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week6_Trees\Binary_Search_Tree\Binary_Search_Tree.cpp(10,43):
+  	see reference to class template instantiation 'BinarySearchTree<int,main::<lambda_1>>' being compiled
+  	C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week6_Trees\Binary_Search_Tree\BinarySearchTree.h(245,1):
+  	while compiling class template member function 'T &BinarySearchTree<T,main::<lambda_1>>::findMinEl(void)'
+          with
+          [
+              T=int
+          ]
+  		C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week6_Trees\Binary_Search_Tree\Binary_Search_Tree.cpp(19,31):
+  		see the first reference to 'BinarySearchTree<int,main::<lambda_1>>::findMinEl' in 'main'
+  

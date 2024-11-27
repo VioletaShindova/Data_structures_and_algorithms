@@ -1,0 +1,58 @@
+﻿  Single_Linked_List.cpp
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(71,5): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Single_Linked_List.cpp')
+  C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(71,5):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(5,7):
+  	while compiling class template 'SinglyLinkedList'
+  	C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(56,8):
+  	while compiling class 'SinglyLinkedList<T>::SllIterator'
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(71,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Single_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(72,3): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Single_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(115,11): error C3861: 'result': identifier not found
+  (compiling source file 'Single_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(115,11): error C2065: 'result': undeclared identifier
+  (compiling source file 'Single_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(298,5): error C2065: 'head': undeclared identifier
+  (compiling source file 'Single_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(298,13): error C2065: 'tail': undeclared identifier
+  (compiling source file 'Single_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(300,10): error C2065: 'head': undeclared identifier
+  (compiling source file 'Single_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(301,3): error C2065: 'head': undeclared identifier
+  (compiling source file 'Single_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(301,10): error C2065: 'tail': undeclared identifier
+  (compiling source file 'Single_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(305,3): error C2065: 'Node': undeclared identifier
+  (compiling source file 'Single_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(305,9): error C2065: 'toDelete': undeclared identifier
+  (compiling source file 'Single_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(305,20): error C2065: 'head': undeclared identifier
+  (compiling source file 'Single_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(306,3): error C2065: 'head': undeclared identifier
+  (compiling source file 'Single_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(306,10): error C2065: 'head': undeclared identifier
+  (compiling source file 'Single_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(307,2): error C2760: syntax error: '}' was unexpected here; expected ';'
+  (compiling source file 'Single_Linked_List.cpp')
+  
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week4_Singly_Linked_List\Single_Linked_List\SinglyLinkedList.h(308,2): error C2065: 'size': undeclared identifier
+  (compiling source file 'Single_Linked_List.cpp')
+  

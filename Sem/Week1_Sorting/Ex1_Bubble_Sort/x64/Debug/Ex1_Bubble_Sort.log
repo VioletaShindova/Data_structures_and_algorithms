@@ -1,0 +1,12 @@
+﻿  Ex1_Bubble_Sort.cpp
+C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\Ex1_Bubble_Sort\Ex1_Bubble_Sort.cpp(19,24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\Ex1_Bubble_Sort\Ex1_Bubble_Sort.cpp(19,24):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\Ex1_Bubble_Sort\Ex1_Bubble_Sort.cpp(33,2):
+  	see reference to function template instantiation 'void bubbleSort<int>(T *,const unsigned int)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+  Ex1_Bubble_Sort.vcxproj -> C:\Users\viole\Documents\University Work Files\Data_structures_and_algorithms_FMI\Sem\Week1_Sorting\x64\Debug\Ex1_Bubble_Sort.exe
