@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week5_Queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE251CB-8334-4945-8E5F-BA00AF4FBB6F}|Circular_Queue\\Circular_Queue.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week5_Queue\\Circular_Queue\\CircularQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AE251CB-8334-4945-8E5F-BA00AF4FBB6F}|Circular_Queue\\Circular_Queue.vcxproj|solutionrelative:Circular_Queue\\CircularQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE251CB-8334-4945-8E5F-BA00AF4FBB6F}|Circular_Queue\\Circular_Queue.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week5_Queue\\Circular_Queue\\Circular_Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AE251CB-8334-4945-8E5F-BA00AF4FBB6F}|Circular_Queue\\Circular_Queue.vcxproj|solutionrelative:Circular_Queue\\Circular_Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03999183-409A-43B4-9D54-763270314F7C}|Linked_Queue\\Linked_Queue.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week5_Queue\\Linked_Queue\\Linked_Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03999183-409A-43B4-9D54-763270314F7C}|Linked_Queue\\Linked_Queue.vcxproj|solutionrelative:Linked_Queue\\Linked_Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 228,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Linked_Queue.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week5_Queue\\Linked_Queue\\Linked_Queue.cpp",
+              "RelativeDocumentMoniker": "Linked_Queue\\Linked_Queue.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week5_Queue\\Linked_Queue\\Linked_Queue.cpp",
+              "RelativeToolTip": "Linked_Queue\\Linked_Queue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T14:47:35.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CircularQueue.h",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week5_Queue\\Circular_Queue\\CircularQueue.h",
+              "RelativeDocumentMoniker": "Circular_Queue\\CircularQueue.h",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week5_Queue\\Circular_Queue\\CircularQueue.h",
+              "RelativeToolTip": "Circular_Queue\\CircularQueue.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T10:40:01.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circular_Queue.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week5_Queue\\Circular_Queue\\Circular_Queue.cpp",
+              "RelativeDocumentMoniker": "Circular_Queue\\Circular_Queue.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Data_structures_and_algorithms_FMI\\Sem\\Week5_Queue\\Circular_Queue\\Circular_Queue.cpp",
+              "RelativeToolTip": "Circular_Queue\\Circular_Queue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T10:38:22.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
