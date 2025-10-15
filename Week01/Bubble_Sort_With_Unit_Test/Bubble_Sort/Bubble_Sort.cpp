@@ -1,6 +1,5 @@
 // Bubble_Sort.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-
 #include <iostream>
 #include <vector>
 
@@ -11,8 +10,11 @@ using std::endl;
 //B.C - 0(n), A.C - 0(n^2), W.C - 0(n^2)
 
 template <typename T>
-void bubbleSort(std::vector<T>& arr, size_t len)
+void bubbleSort(T* arr, size_t len)
 {
+	if (!arr || len == 0)
+		throw std::logic_error("Invalid array\n");
+
     size_t size = len - 1;
 	
 	for (size_t i = 0; i < len - 1; i++)
@@ -32,16 +34,14 @@ void bubbleSort(std::vector<T>& arr, size_t len)
 	}
 }
 
-int main()
-{
-    std::vector<int> arr = { 3,4,1,2,4,6,7,89,4,32,2425, -1};
-
-	bubbleSort<int>(arr, arr.size());
-
-	for (size_t i = 0; i < arr.size(); i++)
-	{
-		cout << arr[i] << ' ';
-	}
-
-	return 0;
-}
+//int main()
+//{
+//    std::vector<int> arr = { 3,4,1,2,4,6,7,89,4,32,2425, -1};
+//
+//	bubbleSort<int>(arr.data(), arr.size());
+//
+//	for (size_t i = 0; i < arr.size(); i++)
+//		cout << arr[i] << ' ';
+//
+//	return 0;
+//}
