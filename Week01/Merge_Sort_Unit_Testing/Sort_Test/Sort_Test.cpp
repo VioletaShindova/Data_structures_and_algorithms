@@ -102,7 +102,7 @@ TEST_CASE(test_WithNullPointerAndNullSize)
 
 
 //Arrange - Act - Assert
-//Всяка функция проверява 1 нещо, ф-иите се кръщават по това, което правят
+//Each function does exactly one thing, the name must be unique and well specified by their purpose
 TEST_CASE(test_WithZeroSize)
 {
 	int arr[] = { 4,-3,2,-10, 13 };					//arrange
