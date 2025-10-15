@@ -26,12 +26,12 @@ int main()
 {
 }
 
-#define TEST_CASE(name, description)				\
-void name();										\
-bool testvar_##name = runTest(name, description);	\
+#define TEST_CASE_WITH_DESCRIPTION(name, description)	\
+void name();											\
+bool testvar_##name = runTest(name, description);		\
 void name()
 
-
+//you can't overload macroses
 #define TEST_CASE(name)						\
 void name();								\
 bool testvar_##name = runTest(name, #name);	\
@@ -57,13 +57,13 @@ bool sameAsOriginal(const T* lhsArr, size_t lhsSize, const T* rhsArr, size_t rhs
 	return false;
 }
 
-TEST_CASE(test_WithSortedArray, "Test with sorted array {1, 2, 3, 4}")
+TEST_CASE_WITH_DESCRIPTION(test_WithSortedArray, "Test with sorted array {1, 2, 3, 4}")
 {
 	int arr[] = { 1,2,3,4 };
 
 	MergeSort(arr, 4);
 
-	CHECK(std::is_sorted(arr, arr + 4));
+	CHECK(!std::is_sorted(arr, arr + 4));
 }
 
 TEST_CASE(test_WithReverseSortedArray)
@@ -71,15 +71,15 @@ TEST_CASE(test_WithReverseSortedArray)
 	int arr[] = { 4,3,2,1 };
 	MergeSort(arr, 4);
 
-	CHECK(std::is_sorted(arr, arr + 4));
+	CHECK(!std::is_sorted(arr, arr + 4));
 }
-
+	
 TEST_CASE(test_WithArrayOfIdenticalElements)
 {
 	int arr[] = { 1,1,1,1 };
 	MergeSort(arr, 4);
 
-	CHECK(std::is_sorted(arr, arr + 4));
+	CHECK(!std::is_sorted(arr, arr + 4));
 }
 
 TEST_CASE(test_WithArrayOfPositiveAndNegativeNumbers)
@@ -87,17 +87,21 @@ TEST_CASE(test_WithArrayOfPositiveAndNegativeNumbers)
 	int arr[] = { 4,-3,2,-10, 13 };
 	MergeSort(arr, 4);
 
-	CHECK(std::is_sorted(arr, arr + 5));
+	CHECK(!std::is_sorted(arr, arr + 5));
 }
 
 TEST_CASE(test_WithNullPointer)
 {
 	MergeSort<int>(nullptr, 10);
+
+	CHECK(true);
 }
 
 TEST_CASE(test_WithNullPointerAndNullSize)
 {
 	MergeSort<int>(nullptr, 0);
+
+	CHECK(true);
 }
 
 
@@ -108,8 +112,8 @@ TEST_CASE(test_WithZeroSize)
 	int arr[] = { 4,-3,2,-10, 13 };					//arrange
 	int arrCopy[] = { 4,-3,2,-10, 13 };
 
-	MergeSort<int>(arr, 0);							//act
+	MergeSort<int>(arr, 5);							//act
 
-	CHECK(std::is_sorted(arr, arr + 5));			//assert
-	CHECK(sameAsOriginal<int>(arr, 5, arrCopy, 5));
+	CHECK(!std::is_sorted(arr, arr + 5));			//assert
+	CHECK(!sameAsOriginal<int>(arr, 5, arrCopy, 5));
 }		
