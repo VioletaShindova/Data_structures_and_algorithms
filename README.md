@@ -3,7 +3,6 @@
 # Overview
 
 ## Vector / Dynamic Array
-
   - with allocator
   - **Iterators:**
     - Iterator
@@ -18,7 +17,6 @@
     - Const Iterator
 
 ## Doubly Linked List
----
   - **Structure:**
     - Linked Nodes (with both previous and next pointers)
   - **Iterators:**
@@ -26,21 +24,18 @@
     - Const Iterator
       
 ## Stack
----
   - **Structure:**
     - Linked Implementation
     - Array Implementation
     - Template Container Implementation
       
 ## Queue
----
   - **Structure:**
     - Linked Implementation
     - Array Implementation
     - Template Container Implementation
       
 ## Deque
----
   - **Structure:**
     - Linked Implementation
     - Array Implementation
@@ -48,7 +43,6 @@
     - Iterator
       
 ## Set/Map
----
   - **Structure:**
     - Binary Search Tree
   - **Iterators:**
@@ -57,12 +51,10 @@
     - Custom Comparator
       
 ## Priority Queue
----
   - **Structure:**
     - Binary Heap
       
 ## Unordered Map/Set
----
   - **Structure:**
     - Separate Chaining
   - **Iterators:**
@@ -71,7 +63,6 @@
     - Template Hasher
       
 ## Unordered Map/Set (Preserves Insertion Order)
----
   - **Structure:**
     - Separate Chaining
   - **Iterators:**
@@ -80,7 +71,6 @@
     - Template Hasher
       
 ## Unordered Map/Set (Linear Probing)
----
   - **Structure:**
     - Linear Probing
   - **Iterators:**
