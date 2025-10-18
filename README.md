@@ -1,6 +1,4 @@
-# Data_structures_and_algorithms_FMI
-
-# Overview
+# Data_structures_and_algorithms_FMI - Overview
 
 ## Vector / Dynamic Array
   - with allocator
