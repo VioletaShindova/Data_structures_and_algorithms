@@ -1,9 +1,9 @@
 # Data_structures_and_algorithms_FMI
 
 # Overview
----
+
 ## Vector / Dynamic Array
----
+
   - with allocator
   - **Iterators:**
     - Iterator
@@ -11,7 +11,6 @@
     - Reverse Iterator
 
 ## Singly Linked List
----
   - **Structure:**
     - Linked Nodes (with next pointer)
   - **Iterators:**
