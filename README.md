@@ -9,7 +9,7 @@
     - Iterator
     - Const Iterator
     - Reverse Iterator
----
+
 ##Singly Linked List
 ---
   - **Structure:**
@@ -17,6 +17,7 @@
   - **Iterators:**
     - Iterator
     - Const Iterator
+
 ##Doubly Linked List
 ---
   - **Structure:**
@@ -24,18 +25,21 @@
   - **Iterators:**
     - Iterator
     - Const Iterator
+      
 ##Stack
 ---
   - **Structure:**
     - Linked Implementation
     - Array Implementation
     - Template Container Implementation
+      
 ##Queue
 ---
   - **Structure:**
     - Linked Implementation
     - Array Implementation
     - Template Container Implementation
+      
 ##Deque
 ---
   - **Structure:**
@@ -43,6 +47,7 @@
     - Array Implementation
   - **Iterators:**
     - Iterator
+      
 ##Set/Map
 ---
   - **Structure:**
@@ -51,10 +56,12 @@
     - Const Iterator
   - **Additional Features:**
     - Custom Comparator
+      
 ##Priority Queue
 ---
   - **Structure:**
     - Binary Heap
+      
 ##Unordered Map/Set
 ---
   - **Structure:**
@@ -63,6 +70,7 @@
     - Const Iterator
   - **Additional Features:**
     - Template Hasher
+      
 ##Unordered Map/Set (Preserves Insertion Order)
 ---
   - **Structure:**
@@ -71,6 +79,7 @@
     - Const Iterator
   - **Additional Features:**
     - Template Hasher
+      
 ##Unordered Map/Set (Linear Probing)
 ---
   - **Structure:**
