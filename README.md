@@ -1,8 +1,8 @@
 # Data_structures_and_algorithms_FMI
 
-#Overview
+# Overview
 ---
-##Vector / Dynamic Array
+## Vector / Dynamic Array
 ---
   - with allocator
   - **Iterators:**
@@ -10,7 +10,7 @@
     - Const Iterator
     - Reverse Iterator
 
-##Singly Linked List
+## Singly Linked List
 ---
   - **Structure:**
     - Linked Nodes (with next pointer)
@@ -18,7 +18,7 @@
     - Iterator
     - Const Iterator
 
-##Doubly Linked List
+## Doubly Linked List
 ---
   - **Structure:**
     - Linked Nodes (with both previous and next pointers)
@@ -26,21 +26,21 @@
     - Iterator
     - Const Iterator
       
-##Stack
+## Stack
 ---
   - **Structure:**
     - Linked Implementation
     - Array Implementation
     - Template Container Implementation
       
-##Queue
+## Queue
 ---
   - **Structure:**
     - Linked Implementation
     - Array Implementation
     - Template Container Implementation
       
-##Deque
+## Deque
 ---
   - **Structure:**
     - Linked Implementation
@@ -48,7 +48,7 @@
   - **Iterators:**
     - Iterator
       
-##Set/Map
+## Set/Map
 ---
   - **Structure:**
     - Binary Search Tree
@@ -57,12 +57,12 @@
   - **Additional Features:**
     - Custom Comparator
       
-##Priority Queue
+## Priority Queue
 ---
   - **Structure:**
     - Binary Heap
       
-##Unordered Map/Set
+## Unordered Map/Set
 ---
   - **Structure:**
     - Separate Chaining
@@ -71,7 +71,7 @@
   - **Additional Features:**
     - Template Hasher
       
-##Unordered Map/Set (Preserves Insertion Order)
+## Unordered Map/Set (Preserves Insertion Order)
 ---
   - **Structure:**
     - Separate Chaining
@@ -80,7 +80,7 @@
   - **Additional Features:**
     - Template Hasher
       
-##Unordered Map/Set (Linear Probing)
+## Unordered Map/Set (Linear Probing)
 ---
   - **Structure:**
     - Linear Probing
