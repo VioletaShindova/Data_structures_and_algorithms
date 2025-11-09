@@ -19,7 +19,7 @@
     - Linked Nodes (with both previous and next pointers)
   - **Iterators:**
     - Iterator
-    - Const Iterator
+    - Constant Iterator
       
 ## Stack
   - **Structure:**
