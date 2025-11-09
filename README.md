@@ -1,6 +1,6 @@
 # Data_structures_and_algorithms_FMI - Overview
 
-## Vector / Dynamic Array
+## Vector / Dynamic Arrays
   - with allocator
   - **Iterators:**
     - Iterator
